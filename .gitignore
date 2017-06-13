@@ -1,0 +1,38 @@
+#no .csv files
+#*.csv
+
+#no .xls files
+#*.xls
+
+#no .xlsx files
+#*.xlsx
+
+#no attch dir
+attch/
+
+#no bash dir
+bash/
+
+#no log dir
+log/
+
+#no mail dir
+mail/
+
+#no netvalue dir
+netvalue/
+
+#no rawfile dir
+rawfile/
+
+#no trace dir
+trace/
+
+#no __pycache__ dir
+src/__pycache__/
+
+#no src/*.txt files
+src/*.txt
+
+#no rawfile.history dir
+rawfile.history/
